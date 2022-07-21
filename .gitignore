@@ -6,5 +6,6 @@ DerivedDataCache/
 Saved/
 Content/StartContent/
 Script/
+output/
 *.sln
 *.xcodeproj
